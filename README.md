@@ -4,7 +4,7 @@
 
 Près de 9 ans d'expérience en analyse métier et produit, dont près de 8 ans au sein du groupe Renault. Spécialité : les parcours d'onboarding digital bancaires — signature électronique, vérification d'identité, OCR, open banking, OTP, contrôle d'IBAN — en environnement SAFe (backlog, PI Planning, Jira / Confluence), avec pilotage fonctionnel de prestataires.
 
-- 📍 Massy (Île-de-France)
+- 📍 Paris, Île-de-France
 - 🎓 Double Master 2 — Université de Bordeaux
 - 🤖 Badge *Generative AI Practitioner* (2025)
 - 🗄️ SQL en formation active (requêtage, filtres, agrégats, jointures)
